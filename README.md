@@ -18,7 +18,7 @@
 5. After a while, Chrome should pop-up and open web.whatsapp.com.
 6. Scan the QR code to login into whatsapp.
 7. Press `Enter` to start sending out messages.
-8. Just Wach some Porn😎
+8. Just Relax and watch the Process 😎
 
 
 <p ><b>This one is littlebit complex to set up <i>Please Download the Nessasry version of Chrome Drivers that support to your browser</i></b></p>
@@ -54,8 +54,31 @@ A chrome browser window will open with a WhatsApp login page. Quickly log in to 
 
 <p><b>Easy to Emplent and Run</b></p>
 
-<div align = 'center'>
-  <h3> Happy code Hommies😎<br/>
-  Kindly Give It a Star(❁´◡`❁)</h3>
-</div>
+## Contributors
+<div align="center">
+
+
+| [![Sahan Sandaruwan](https://github.com/sahansandaruwan.png?size=150)](https://github.com/sahansandaruwan) | 
+|----
+ [Sahan Sandaruwan](https://github.com/sahansandaruwan) |
+ Developer |
+ 
+ </div>
+
+ <div align="center">
+
+
+| [![Sahan Sandaruwan](https://github.com/ranjika123.png?size=150)](https://github.com/ranjika123) | 
+|----
+ [Ranjika Nethpriya](https://github.com/ranjika123) |
+ Developer |
+
+ </div>
+
+ ## Notice 📢
+ <p><b>We Use Silanium Python Library to Automate the System,so sometimes it can be get banned your account from WhatsApp(Only sure for 1v/2v is Epic).</b></p>
+
+ ## License
+This project is licensed under the [GNU Genaral Public Lisens](LICENSE).
+ 
 
