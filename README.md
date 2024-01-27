@@ -52,4 +52,10 @@ Change configs on lines in the `main.py` file
 Run the `main.py` file.
 A chrome browser window will open with a WhatsApp login page. Quickly log in to Whatsapp and sending process will start after a few seconds.
 
+<p><b>Easy to Emplent and Run</b></p>
+
+<div align = 'center'>
+  <h3> Happy code Hommies😎<br/>
+  Kindly Give It a Star(❁´◡`❁)</h3>
+</div>
 
