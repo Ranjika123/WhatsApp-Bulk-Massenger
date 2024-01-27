@@ -1,15 +1,15 @@
-## Requerments For Bulk 2v✔
-# Requirements
+# Requerments For Bulk 2v✔
+## Requirements
 
 *  Python >= 3.6
 *  Chrome headless is installed by the program automatically
 
-# Setup
+## Setup
 
 1. Install python - >=v3.6
 2. Run `pip install -r requirements.txt`
 
-# Steps
+## Steps
 
 1. Enter the message you want to send inside `message.txt` file.
 2. Enter the list of numbers line-separated in `numbers.txt` file.
@@ -21,10 +21,10 @@
 8. Just Wach some Porn😎
 
 
-<h1 aligne = 'center'>This one is littlebit complex to set up <b>Please Download the Nessasry version of Chrome Drivers that support to your browser</b></h1>
+<p ><b>This one is littlebit complex to set up <i>Please Download the Nessasry version of Chrome Drivers that support to your browser</i></b></p>
 
 
-## Requerments For Bulk 1v✔
+# Requerments For Bulk 1v✔
 
 ## How To Use
 
@@ -52,7 +52,4 @@ Change configs on lines in the `main.py` file
 Run the `main.py` file.
 A chrome browser window will open with a WhatsApp login page. Quickly log in to Whatsapp and sending process will start after a few seconds.
 
-# Developer
-# **Github/Ranjika123**
-# Ranjikanethpriya.netlify.app
 
