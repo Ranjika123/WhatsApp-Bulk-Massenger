@@ -54,31 +54,20 @@ A chrome browser window will open with a WhatsApp login page. Quickly log in to 
 
 <p><b>Easy to Emplent and Run</b></p>
 
-## Contributors
-<div align="center">
-
-
-| [![Sahan Sandaruwan](https://github.com/sahansandaruwan.png?size=150)](https://github.com/sahansandaruwan) | 
-|----
- [Sahan Sandaruwan](https://github.com/sahansandaruwan) |
- Developer |
  
- </div>
-
- <div align="center">
-
-
-| [![Sahan Sandaruwan](https://github.com/ranjika123.png?size=150)](https://github.com/ranjika123) | 
-|----
- [Ranjika Nethpriya](https://github.com/ranjika123) |
- Developer |
-
- </div>
-
  ## Notice 📢
- <p><b>We Use Silanium Python Library to Automate the System,so sometimes it can be get banned your account from WhatsApp(Only sure for 1v/2v is Epic).</b></p>
+ <p><b>We Use Silanium Python Library to Automate the System,so sometimes it can be get banned your account from WhatsApp(Only sure for 1v).</b></p>
 
- ## License
+ 
+## Contributors
+
+| [![Sahan Sandaruwan](https://github.com/sahansandaruwan.png?size=150)](https://github.com/sahansandaruwan)   |[![Ranjika Nethpriya](https://github.com/ranjika123.png?size=150)](https://github.com/ranjika123)|
+| -----------------------------------                                                                           | ----------------------------------- 
+| [Sahan Sandaruwan](https://github.com/sahansandaruwan)                                                        | [Ranjika Nethpriya](https://github.com/ranjika123)                                                             
+| [Porfolio](https://sahansandaruwan.pages.dev/)                                                                |[Porfolio](https://ranjikanethpriya.netlify.app/) 
+ 
+
+## License
 This project is licensed under the [GNU Genaral Public Lisens](LICENSE).
  
 
