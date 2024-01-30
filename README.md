@@ -65,7 +65,7 @@ A chrome browser window will open with a WhatsApp login page. Quickly log in to 
 | -----------------------------------                                                                           | ----------------------------------- 
 | [Sahan Sandaruwan](https://github.com/sahansandaruwan)                                                        | [Ranjika Nethpriya](https://github.com/ranjika123)                                                             
 | [Porfolio](https://sahansandaruwan.pages.dev/)                                                                |[Porfolio](https://ranjikanethpriya.netlify.app/) 
- 
+                                                                                 
 
 ## License
 This project is licensed under the [GNU Genaral Public Lisens](LICENSE).
