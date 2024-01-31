@@ -1,15 +1,15 @@
-# Requerments For Bulk 2v✔
-## Requirements
+## Requerments For Bulk 2v✔
+# Requirements
 
 *  Python >= 3.6
 *  Chrome headless is installed by the program automatically
 
-## Setup
+# Setup
 
 1. Install python - >=v3.6
 2. Run `pip install -r requirements.txt`
 
-## Steps
+# Steps
 
 1. Enter the message you want to send inside `message.txt` file.
 2. Enter the list of numbers line-separated in `numbers.txt` file.
@@ -18,13 +18,13 @@
 5. After a while, Chrome should pop-up and open web.whatsapp.com.
 6. Scan the QR code to login into whatsapp.
 7. Press `Enter` to start sending out messages.
-8. Just Relax and watch the Process 😎
+8. Just Wach some Porn😎
 
 
-<p ><b>This one is littlebit complex to set up <i>Please Download the Nessasry version of Chrome Drivers that support to your browser</i></b></p>
+<h1 aligne = 'center'>This one is littlebit complex to set up <b>Please Download the Nessasry version of Chrome Drivers that support to your browser</b></h1>
 
 
-# Requerments For Bulk 1v✔
+## Requerments For Bulk 1v✔
 
 ## How To Use
 
@@ -52,33 +52,7 @@ Change configs on lines in the `main.py` file
 Run the `main.py` file.
 A chrome browser window will open with a WhatsApp login page. Quickly log in to Whatsapp and sending process will start after a few seconds.
 
-<p><b>Easy to Emplent and Run</b></p>
-
-## Contributors
-<div align="center">
-
-
-| [![Sahan Sandaruwan](https://github.com/sahansandaruwan.png?size=150)](https://github.com/sahansandaruwan) | 
-|----
- [Sahan Sandaruwan](https://github.com/sahansandaruwan) |
- Developer |
- 
- </div>
-
- <div align="center">
-
-
-| [![Sahan Sandaruwan](https://github.com/ranjika123.png?size=150)](https://github.com/ranjika123) | 
-|----
- [Ranjika Nethpriya](https://github.com/ranjika123) |
- Developer |
-
- </div>
-
- ## Notice 📢
- <p><b>We Use Silanium Python Library to Automate the System,so sometimes it can be get banned your account from WhatsApp(Only sure for 1v/2v is Epic).</b></p>
-
- ## License
-This project is licensed under the [GNU Genaral Public Lisens](LICENSE).
- 
+# Developer
+# **Github/Ranjika123**
+# Ranjikanethpriya.netlify.app
 
