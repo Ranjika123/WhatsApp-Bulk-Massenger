@@ -58,14 +58,6 @@ A chrome browser window will open with a WhatsApp login page. Quickly log in to 
  ## Notice 📢
  <p><b>We Use Silanium Python Library to Automate the System,so sometimes it can be get banned your account from WhatsApp(Only sure for 1v).</b></p>
 
- ## New-Update ✔         
- ### * Add exe files  
-
-
-| Version 1v ✔                                                                                                                      | Version 2v ✔                                                                                                             |
-|--------------                                                                                                                     |-----------                                                                                                                |
-| [Download](https://github.com/Ranjika123/WhatsApp-Bulk-Massenger/blob/main/WhatsApp%20Bulk-1v%E2%9C%94/dist/main.exe)             | [Download](https://github.com/Ranjika123/WhatsApp-Bulk-Massenger/blob/main/Wathika%20Bulk-2v%E2%9C%94/dist/automator.exe) |
-
 
  ## Developer ✔
 
